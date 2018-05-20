@@ -205,10 +205,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82180340a6fc5d64f90f9aea03f21f5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
   material: {fileID: 2100000, guid: fcb150fc103e4d84bafd3da6470a3c68, type: 2}
   maxDepth: 4
-  childScale: 0.8
+  childScale: 0.5
 --- !u!4 &1206190397
 Transform:
   m_ObjectHideFlags: 0
